@@ -1,8 +1,8 @@
 liblbfgs
 ========
 
-liblbfgs java version translate from c 
+liblbfgs java version translate from c version https://github.com/chokkan/liblbfgs.
 
-the original version is https://github.com/chokkan/liblbfgs.
+Notice!!!
 
-and line search only support line_search_backtracking
+line search only support line_search_backtracking now.
